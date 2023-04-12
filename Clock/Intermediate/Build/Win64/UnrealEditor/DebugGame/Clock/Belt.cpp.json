@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\source\\clock\\belt.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\clockeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\debuggame\\clock\\definitions.clock.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\source\\clock\\belt.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\inc\\clock\\belt.generated.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\source\\clock\\gearbeltcomp.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\source\\clock\\gear.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\inc\\clock\\gear.generated.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\inc\\clock\\gearbeltcomp.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\splinecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\splinemeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\splinemeshcomponent.generated.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\source\\clock\\vrplayer.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\inc\\clock\\vrplayer.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

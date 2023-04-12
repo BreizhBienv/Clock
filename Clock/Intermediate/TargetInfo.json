@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Clock",
+			"Path": "C:\\Users\\gauth\\CODE\\Isart\\Unreal5\\VR\\Marouflards\\Source\\Clock.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ClockEditor",
+			"Path": "C:\\Users\\gauth\\CODE\\Isart\\Unreal5\\VR\\Marouflards\\Source\\ClockEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+﻿  Cleaning ClockEditor and UnrealHeaderTool binaries...
+  Using bundled DotNet SDK
+  Log file: C:\Users\gauth\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\gauth\CODE\Isart\Unreal5\VR\Marouflards).
+  Creating makefile for ClockEditor (no existing makefile)
+  Parsing headers for ClockEditor
+    Running UnrealHeaderTool "C:\Users\gauth\CODE\Isart\Unreal5\VR\Marouflards\Clock.uproject" "C:\Users\gauth\CODE\Isart\Unreal5\VR\Marouflards\Intermediate\Build\Win64\ClockEditor\DebugGame\ClockEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\gauth\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for ClockEditor in 2,0726482 seconds
+  Building ClockEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Clock unity file: VRPlayer.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1,5 GB free memory per action, 4,41 GB available: limiting max parallel actions to 2
+  Building 29 actions with 2 processes...
+  [1/29] Resource Default.rc2
+  [2/29] Compile SharedPCH.Engine.NonOptimized.ShadowErrors.cpp
+  [3/29] Compile EndingGear.gen.cpp
+  [4/29] Compile ClockGameModeBase.gen.cpp
+  [5/29] Compile GameManager.gen.cpp
+  [6/29] Compile StartingGear.cpp
+  [7/29] Compile Belt.gen.cpp
+  [8/29] Compile ClockGameModeBase.cpp
+  [9/29] Compile Clock.cpp
+  [10/29] Compile EndingGear.cpp
+  [11/29] Compile RotationButton.gen.cpp
+  [12/29] Compile Belt.cpp
+  [13/29] Compile Gear.cpp
+  [14/29] Compile Clock.init.gen.cpp
+  [15/29] Compile VRPlayer.gen.cpp
+  [16/29] Compile RotationButton.cpp
+  [17/29] Compile GearBeltComp.cpp
+  [18/29] Compile GameManager.cpp
+  [19/29] Compile GearSupport.cpp
+  [20/29] Compile Gear.gen.cpp
+  [21/29] Compile GearSupport.gen.cpp
+  [22/29] Compile GearBeltComp.gen.cpp
+  [23/29] Compile LevelComponent.cpp
+  [24/29] Compile StartingGear.gen.cpp
+  [25/29] Compile LevelComponent.gen.cpp
+  [26/29] Compile VRPlayer.cpp
+  [27/29] Link UnrealEditor-Clock-Win64-DebugGame.lib
+     Création de la bibliothèque C:\Users\gauth\CODE\Isart\Unreal5\VR\Marouflards\Intermediate\Build\Win64\UnrealEditor\DebugGame\Clock\UnrealEditor-Clock-Win64-DebugGame.lib et de l'objet C:\Users\gauth\CODE\Isart\Unreal5\VR\Marouflards\Intermediate\Build\Win64\UnrealEditor\DebugGame\Clock\UnrealEditor-Clock-Win64-DebugGame.exp
+  [28/29] Link UnrealEditor-Clock-Win64-DebugGame.dll
+     Création de la bibliothèque C:\Users\gauth\CODE\Isart\Unreal5\VR\Marouflards\Intermediate\Build\Win64\UnrealEditor\DebugGame\Clock\UnrealEditor-Clock-Win64-DebugGame.suppressed.lib et de l'objet C:\Users\gauth\CODE\Isart\Unreal5\VR\Marouflards\Intermediate\Build\Win64\UnrealEditor\DebugGame\Clock\UnrealEditor-Clock-Win64-DebugGame.suppressed.exp
+  [29/29] WriteMetadata ClockEditor-Win64-DebugGame.target
+  Total time in Parallel executor: 48,00 seconds
+  Total execution time: 52,44 seconds

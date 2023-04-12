@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\inc\\clock\\gearbeltcomp.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\clockeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\debuggame\\clock\\definitions.clock.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\source\\clock\\gearbeltcomp.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\source\\clock\\gear.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\inc\\clock\\gear.generated.h",
+            "c:\\users\\gauth\\code\\isart\\unreal5\\vr\\marouflards\\intermediate\\build\\win64\\unrealeditor\\inc\\clock\\gearbeltcomp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
