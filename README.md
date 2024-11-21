@@ -1,6 +1,7 @@
 # Clock
 
-A VR game made on Unreal 5.0.3 in collaboration between programmers and game designers at Isart Digital Montréal in november 2022.
+A VR game made on Unreal 5.0.3 at Isart Digital Montréal in november 2022.
+It was made by 3 game designers and 1 game programmer (me).<br>
 The game consist of manipulating gears to resolve 3D puzzles.<br>
 
 # Youtube Overview
